@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "description": "This is a great stream.",
+      "title": "My Stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "I Created This Stream",
+      "description": "This was created by me!",
+      "id": 3
+    },
+    {
+      "title": "Ok for real this time - by me",
+      "description": "Really, this was by me... I promise",
+      "userId": "112041406361700639141",
+      "id": 4
+    },
+    {
+      "title": "Route Me Home",
+      "description": "Homeward Bound - I liked the cat",
+      "userId": "112041406361700639141",
+      "id": 5
+    }
+  ]
+}
